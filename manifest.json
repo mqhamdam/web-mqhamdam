@@ -1,6 +1,6 @@
 {
-    "name": "mqhamdam",
-    "short_name": "mqhamdam",
+    "name": "flutter_mqhamdam",
+    "short_name": "flutter_mqhamdam",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
